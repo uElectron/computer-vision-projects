@@ -1,3 +1,9 @@
+############################################################################################################################
+## Author: UDHAY KUMAR MUGATI                                                                                             ##
+## Version: 1.0 (Base Stable)                                                                                             ##
+## Description: Searches recursively under the given directory for .jpg image files and generate appropriate .json files  ##
+##               with contours detection and labelling the points for working with LabelMe program                        ##
+############################################################################################################################
 import cv2 as cv
 import numpy as np
 import matplotlib.pyplot as plt
